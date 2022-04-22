@@ -1,31 +1,29 @@
-# ESS-DIVE Reporting Format for *your reporting format name here* v 1.0.0
+# ESS-DIVE Reporting Format for location metadata v 1.0.0
 
 ## About the reporting format
-This reporting format is recommended for *add description for type of data your reporting format can be applied to*
+The ESS-DIVE locations metadata reporting format is intended to guide users in providing a minimal set of guidelines for reporting metadata about point locations.
+
+The reporting format was developed by synthesizing the existing requirements about locations for ESS-DIVE’s [domain-specific reporting formats](https://github.com/ess-dive-community). We also took into consideration other locations-related standards, conventions, guidelines, and reporting formats which you can see in our metadata crosswalk **add link**.
 
 ## Quickstart Guide
-  1. **Read** *add hyperlinks to most important documents (e.g., instructions, data dictionaries*)
-  2. **Download** *add links to any templates*  
-  .... **Additional steps as needed** *Add any additonal steps and links that will help visitors understand how to use your reporting format*
-  4. **Save** *add customized instructions for saving datasets as CSV files and uploading to ESS-DIVE*
+  1. **Read** brief instructions for using our metadata reporting format.
+  2. **Download templates** here.
+  3. **Save** your filled-out locations metadata template as a .CSV file.
+  4. **Upload** your metadata template along with the rest of your dataset to ESS-DIVE.
     
 ## How to contribute
+This reporting format is intended to be a dynamic format that is responsive to user feedback. We encourage those interested to offer suggestions to the reporting format by submitting a GitHub issue using one of our templates here.
 
-*Add text that encourages visitors to contribute to this reporting format. Can provide links to GitHub Issue submission page as well as ESS-DIVE's support email ess-dive-support *at* lbl.gov*  
+As always, you can always submit suggestions to us via ESS-DIVE's support email address: ess-dive-support *at* lbl.gov
 
 ## Liscensing information
-*All reporting formats are licensed with a CC BY 4.0 license, and so can include text below*
-
 This repository content is license for use under the [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/)
 
 ## Funding and acknowledgments
-
-*Customize funding statement below. The general statement provided covers funding mechanism for community reporting formats*  
-
 Funding for the development of ESS-DIVE's [add your reporting format name here] reporting format was provided by the U.S. Department of Energy, Office of Science, Office of Biological and Environmental Research, Climate and Environmental Science Division, Data Management program under contract number DE-AC02-05CH11231.
 
 ## Recommended citation
-*Adding citation information will be last step, once reporting format documents are uploaded to ESS-DIVE*
+*Citation will be added at later date*
 
 ## References
 
